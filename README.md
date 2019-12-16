@@ -65,3 +65,6 @@ ALL TESTS PASSED
 Tests run: 16
 ```
 
+## Installation
+
+Running `sudo ./install.sh` will copy the file to /usr/local/include.
